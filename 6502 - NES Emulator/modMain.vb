@@ -1,7 +1,7 @@
 ﻿Module modMain
 #Region "Project Information"
     Public strProgramTitle As String = "NES Emulator"
-    Public strRegistryPath As String = "Software\Game Tools\NES Emulator"
+    Public strRegistryPath As String = "Software\Visual Basic NES Emulator"
 #End Region
 
 #Region "Simulation Items"
